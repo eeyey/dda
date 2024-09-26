@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Box, Paper, Toolbar } from "@mui/material";
 import ClearIcon from "@mui/icons-material/Clear";
 

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Box, Paper, Toolbar } from "@mui/material";
 import EarbudsIcon from "@mui/icons-material/Earbuds";
 
@@ -6,9 +6,6 @@ import PageHeader from "../../components/common/PageHeader";
 import SearchInput from "../../components/controls/SearchInput";
 import DisposalGrid from "../../components/datatables/DisposalGrid";
 import AddButton from "../../components/controls/AddButton";
-import InseminationAddForm from "../../components/forms/InseminationAddForm";
-
-import useDebounce from "../../hooks/useDebounce";
 
 import styleConfigs from "../../configs/styleConfigs";
 import DisposalForm from "../../components/forms/DisposalForm";

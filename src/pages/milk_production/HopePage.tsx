@@ -1,8 +1,4 @@
-import React from "react";
-
-type Props = {};
-
-const HopePage = (props: Props) => {
+const HopePage = () => {
   return <div>Надой</div>;
 };
 

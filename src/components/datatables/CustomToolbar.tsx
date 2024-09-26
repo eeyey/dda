@@ -1,5 +1,4 @@
 import {
-  DataGrid,
   GridToolbarContainer,
   GridToolbarColumnsButton,
   GridToolbarFilterButton,

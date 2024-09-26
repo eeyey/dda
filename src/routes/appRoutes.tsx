@@ -1,8 +1,5 @@
 import { RouteType } from "./config";
 
-import DashboardOutlinedIcon from "@mui/icons-material/DashboardOutlined";
-import FileDownloadOutlinedIcon from "@mui/icons-material/FileDownloadOutlined";
-
 import HopePage from "../pages/milk_production/HopePage";
 import HomePage from "../pages/home/HomePage";
 import MilkProductionPageLayout from "../pages/milk_production/MilkProductionPageLayout";

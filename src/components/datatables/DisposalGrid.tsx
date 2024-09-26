@@ -1,7 +1,7 @@
 import { GridColDef } from "@mui/x-data-grid";
 import DataGridLayout from "./DataGridLayout";
 import { Box } from "@mui/material";
-import { memo, useMemo, useState } from "react";
+import { memo, useMemo } from "react";
 // import { InseminationRecord } from "../../types/types";
 // import InseminationEditForm from "../forms/InseminationEditForm";
 
